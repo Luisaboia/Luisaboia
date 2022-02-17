@@ -4,7 +4,7 @@
   <div align="center"><img width="400" height="400" alt="type-cat" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"></div> <br />
   
   - 📖 Trabalho atualmente como **Desenvolvedor Front-End**
-  - ✨ Estudando **JavaScript**
+  - ✨ Estudando **Back-end**
  
  ## Meus Status
 
