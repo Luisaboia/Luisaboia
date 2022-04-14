@@ -1,13 +1,19 @@
 
-## Opa! Eu sou o Luis Saboia.
+## Hi! I'm Luis Saboia.
+Full stack developer, social media designer and future software engineer.
 
-  <div align="center"><img width="400" height="400" alt="type-cat" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"></div> <br />
+Career
+----
+  <div align="center">
+  <br/>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisaboia&theme=default&hide_border=false&date_format=Y/m/j&properties=background"                 alt="Luisaboia" /></p>
   
-  - 📖 Trabalho atualmente como **Desenvolvedor Full-Stack**
-  - ✨ Estudando **Linguagem C**
-  - ⛺ Atual camper na 42SP/Abril 2022
+  ⛺ Camper at [**42 São Paulo**][1]
+  
+  [1]: https://www.42sp.org.br/
+  </div>
  
- ## Meus Status
+ ## My status
 
 <div align="center">
   <a href="https://github.com/Luisaboia">
@@ -15,10 +21,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisaboia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block"><br />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png">
-  <img align="center" alt="expressJS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img align="center" alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img align="center" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img align="center" alt="jQuery" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"/>
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"/>
+  <img align="center" alt="ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
+  <img align="center" alt="arduino" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  
+  
 </div>
