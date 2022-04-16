@@ -11,12 +11,12 @@ Career
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img align="center" alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img align="center" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img align="center" alt="jQuery" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png"/>
   <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"/>
   <img align="center" alt="ExpressJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
+  <img align="center" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img align="center" alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   <img align="center" alt="arduino" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" width="40" height="40"/>
 </div>
   <br />
