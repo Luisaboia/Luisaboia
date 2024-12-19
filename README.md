@@ -1,8 +1,9 @@
 
 ## Hi! I'm Luis Saboia.
-  <p>🇧🇷 Brazilian Back-End Dev & Cybersec enthusiast;</p>
+  <p>🇧🇷 Data Science Enthusiast;</p>
   <p>🎂 23 Years Old;</p>
   <p>💻 Coding since I was 11 years old</p>
+  <p>🧲 Studying Physics on IFPR</p>
 
 Career
 ----
