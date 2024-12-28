@@ -1,9 +1,9 @@
 
 ## Hi! I'm Luis Saboia.
-  <p>🇧🇷 Data Science Enthusiast;</p>
+  <p>🇧🇷 CyberSec Enthusiast;</p>
   <p>🎂 23 Years Old;</p>
   <p>💻 Coding since I was 11 years old</p>
-  <p>🧲 Studying Physics on IFPR</p>
+  <p>🧲 Studying Physics on IFPR and Computer Science on UniAmerica</p>
 
 Career
 ----
