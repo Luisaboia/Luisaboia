@@ -4,7 +4,7 @@
   <p>CyberSec Enthusiast;</p>
   <p>🎂 23 Years Old;</p>
   <p>💻 Coding since I was 11 years old</p>
-  <p>🧲 Studying Physics on IFPR and Computer Science on UniAmerica</p>
+  <p>🧲 Studying Physics at IFPR and Computer Science at UniAmerica</p>
 </div>
 
 Career
