@@ -17,7 +17,6 @@ Career
   <img align="center" alt="arduino" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" width="40" height="40"/>
 </div>
   <br />
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisaboia&theme=midnight-purple&hide_border=true"                 alt="Luisaboia" /></p>
   
   ⛺ Camper at [**42 São Paulo**][1]
   
