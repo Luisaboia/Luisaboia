@@ -1,7 +1,7 @@
 
 ## Summary
 <div align="center">
-  <p>CyberSec Enthusiast;</p>
+  <p>CyberSec;</p>
   <p>🎂 23 Years Old;</p>
   <p>💻 Coding since I was 11 years old</p>
   <p>🧲 Studying Physics at IFPR and Computer Science at UniAmerica</p>
