@@ -27,5 +27,5 @@ Career
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaboia&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaboia&hide=javascript,css,scss,html&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaboia&hide=javascript,css,scss,html&ide_border=true&theme=midnight-purple"/>
 </div>
