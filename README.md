@@ -20,7 +20,7 @@ Career
   [1]: https://www.42sp.org.br/
   </div>
  
- ## My status
+ ## My stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaboia&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
