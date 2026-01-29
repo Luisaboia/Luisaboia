@@ -3,7 +3,6 @@
 <div align="center">
   <p>Data is my passion;</p>
   <p>🎂 24 Years Old;</p>
-  <p>💻 Coding since I was 11 years old</p>
   <p>🧲 Studying Physics at IFPR and Computer Science at UniAmerica</p>
 </div>
 
