@@ -23,6 +23,5 @@ Career
  ## My stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisaboia&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaboia&hide=javascript,css,scss,html&hide_border=true&theme=midnight-purple"/>
 </div>
