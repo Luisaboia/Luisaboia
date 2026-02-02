@@ -9,8 +9,7 @@
 Career
 ----
   <div align="center">
-  <img align="center" src="https://www.codewars.com/users/Luisaboia/badges/large" />
-  <div align="center" style="display: inline_block"><br />
+  <p>Physics Teacher w/ emphasis on Python</p>
 </div>
   <br />
   
