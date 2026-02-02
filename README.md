@@ -10,7 +10,6 @@ Career
 ----
   <div align="center">
   <p>Physics Teacher w/ emphasis on Python</p>
-</div>
   <br />
   
   ⛺ Camper at [**42 São Paulo**][1]
