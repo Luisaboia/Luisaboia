@@ -1,7 +1,7 @@
 
 ## Summary
 <div align="center">
-  <p>Data is my passion;</p>
+  <p>Data Science & CyberSec;</p>
   <p>🎂 24 Years Old;</p>
   <p>🧲 Studying Physics at IFPR and Computer Science at UniAmerica</p>
 </div>
