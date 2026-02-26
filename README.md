@@ -20,5 +20,7 @@ Career
  ## My stats
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaboia&hide=javascript,css,scss,html&hide_border=true&theme=midnight-purple"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luisaboia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Luisaboia&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luisaboia&layout=compact&theme=radical)
 </div>
