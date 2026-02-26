@@ -20,7 +20,8 @@ Career
  ## My stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luisaboia&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Luisaboia&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luisaboia&layout=compact&theme=radical)
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Luisaboia&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luisaboia&layout=compact&theme=tokyonight)
+
 </div>
