@@ -13,7 +13,7 @@
 * 🎓 **Acadêmico:** Graduando em Física pelo **IFPR** e em Ciência da Computação pela **UniAmérica**.
 * 🏫 **Carreira:** Atuo como Professor de Física. Gosto de trazer conceitos da sala de aula para a programação.
 * ⛺ **Comunidade:** Camper na [**42 São Paulo**](https://www.42sp.org.br/).
-* 🔭 **Foco atual:** Aprofundando conhecimentos em Data Science e desenvolvendo algoritmos eficientes.
+* 🔭 **Foco atual:** Aprofundando conhecimentos em Data Science.
 
 ---
 
